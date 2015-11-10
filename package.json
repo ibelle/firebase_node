@@ -1,0 +1,24 @@
+{
+  "name": "firebase_node",
+  "version": "1.0.0",
+  "description": "Firebase Example App",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "firebase": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ibelle/firebase_node.git"
+  },
+  "author": "Isaiah Belle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibelle/firebase_node/issues"
+  },
+  "homepage": "https://github.com/ibelle/firebase_node#readme"
+}
